@@ -21,10 +21,6 @@ def main():
                 return
 
     
-
-    
-
-#def fill(color):
     
 
 
